@@ -1,0 +1,2 @@
+pipenv shell //Creates virtual environment
+pipenv install PyQt5 opencv-python-headless //Library (UI/Camera)
